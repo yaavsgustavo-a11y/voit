@@ -10,13 +10,14 @@
 Para efectos del presente convenio se entenderá por:
 
 - **Academia:** la Academia de Fútbol Andrés Chitiva, con sede en `[domicilio]`, Pachuca, Hidalgo, en operación desde **agosto de 2026**.
-- **Complejo:** las instalaciones deportivas donde opera la Academia, integradas por `[__]` canchas y sus áreas comunes.
+- **Complejo:** las instalaciones deportivas donde opera la Academia, integradas por **tres (3) canchas** y sus áreas comunes.
 - **Liga:** el ecosistema de ligas deportivas que opera dentro del Complejo, integrado por más de 210 equipos registrados, en operación desde **agosto de 2026**.
 - **Patrocinador:** VOIT, marca comercial propiedad de `[razón social del titular]`.
 - **Categoría Exclusiva:** la categoría de **balones de fútbol**, conforme a la Cláusula 4.
 - **Material Deportivo:** los balones, casacas, guantes de portero y demás equipamiento que el Patrocinador aporte conforme a la Cláusula 9.
 - **Publicidad Perimetral:** el conjunto de vallas publicitarias instaladas en el perímetro de las canchas del Complejo, conforme al inventario de la Cláusula 5.
-- **Espacio Publicitario:** cada módulo estándar del inventario perimetral de una cancha, conforme a la Cláusula 5.
+- **Espacio Publicitario** o **Módulo:** la unidad estándar del inventario perimetral de una cancha, cuya superficie es de **11.31 m² (5.80 × 1.95 m) en la Cancha 1** y de **10.73 m² (5.50 × 1.95 m) en la Cancha 3**.
+- **Gran Formato:** valla de doble altura instalada sobre el nivel del módulo estándar, cuya superficie equivale a cuatro Espacios Publicitarios.
 - **Alumnos:** las personas inscritas en los programas formativos de la Academia.
 
 ---
@@ -67,37 +68,58 @@ d) No celebrar convenios de patrocinio, canje, publicidad o proveeduría con mar
 
 5.1 **Inventario asignado.** La Academia mantiene instaladas, a la firma del presente convenio, **tres (3) vallas publicitarias** de la marca VOIT, impresas en lona y montadas en el perímetro de las canchas del Complejo, conforme al siguiente inventario:
 
-| # | Cancha | Medida | Formato | Espacios Publicitarios ocupados | Inventario total de la cancha |
+| # | Cancha | Medida (base × altura) | Superficie | Formato | Módulos equivalentes |
 |---|---|---|---|---|---|
-| 1 | Cancha 1 | **11.60 m** | Doble | **2 espacios** | 9 espacios |
-| 2 | Cancha 3 | **5.80 m** | Individual | **1 espacio** | 9 espacios |
-| 3 | Cancha 3 | **11.30 m** | **Gran formato** | **4 espacios** | Solo existen **2 posiciones** de gran formato en la cancha |
-| | **Total** | **28.70 m lineales** | | **7 espacios** | **18 espacios** |
+| 1 | Cancha 1 | **11.60 × 1.95 m** | **22.62 m²** | Doble | **2 de 9** |
+| 2 | Cancha 3 | **5.50 × 1.95 m** | **10.73 m²** | Individual | **1 de 9** |
+| 3 | Cancha 3 | **11.30 × 3.84 m** | **43.39 m²** | **Gran Formato** | **4 de 9** |
+| | **Total** | **28.40 m lineales** | **76.74 m²** | | **7 de 18** |
 
-5.2 **Participación en el inventario (share of voice).** Conforme al inventario anterior, el Patrocinador concentra:
+5.2 **Criterio de equivalencia.** La equivalencia en Módulos se determina por **superficie publicitaria**, no por metros lineales, conforme al siguiente cálculo:
+
+- Cancha 1: 22.62 m² ÷ 11.31 m² por módulo = **2.00 módulos**
+- Cancha 3, valla individual: 10.73 m² ÷ 10.73 m² por módulo = **1.00 módulo**
+- Cancha 3, Gran Formato: 43.39 m² ÷ 10.73 m² por módulo = **4.05 módulos**
+
+El Gran Formato duplica tanto la base como la altura del módulo estándar, de donde resulta su equivalencia a cuatro Espacios Publicitarios.
+
+5.3 **Participación en el inventario (share of voice).** Conforme al inventario anterior, el Patrocinador concentra:
 
 | Indicador | Valor |
 |---|---|
-| Metros lineales de publicidad perimetral | **28.70 m** |
-| Espacios Publicitarios ocupados | **7 de 18** — **38.9% del inventario** |
-| Participación en Cancha 1 | 2 de 9 espacios — 22.2% |
-| Participación en Cancha 3 | **5 de 9 espacios — 55.6%** |
-| Posiciones de gran formato | **1 de solo 2 existentes** en la Cancha 3 |
-| Canchas con presencia de marca | 2 de `[__]` |
+| Superficie publicitaria total | **76.74 m²** |
+| Metros lineales | **28.40 m** |
+| Módulos ocupados | **7 de 18** — **38.9% del inventario lateral comercializado** |
+| Participación en Cancha 1 | 2 de 9 módulos — 22.2% |
+| Participación en Cancha 3 | **5 de 9 módulos — 55.6%** |
+| Posiciones de Gran Formato | **1 de solo 2 existentes** en el Complejo |
+| Canchas con presencia de marca | **2 de 3** |
+| Posición relativa | **Mayor superficie publicitaria asignada a marca de terceros en el Complejo** |
 
-5.3 **Carácter preferente de las posiciones asignadas.** En atención a la prioridad otorgada a VOIT como Proveedor Oficial, la Academia le asignó:
+5.4 **Ubicación preferente.** Las tres vallas del Patrocinador se encuentran instaladas en **posición lateral, frente a las gradas** de sus respectivas canchas, orientadas directamente al público en situación de permanencia prolongada. Esta ubicación garantiza que la marca se encuentre en el campo visual del espectador durante la totalidad de su estancia, estimada en más de 90 minutos por visita.
 
-a) En la Cancha 1, un espacio de **doble superficie** (11.60 m) ubicado en `[zona de mayor visibilidad — especificar: banca, detrás de portería, lateral de acceso]`.
+5.5 **Carácter preferente de las posiciones asignadas.** En atención a la prioridad otorgada a VOIT como Proveedor Oficial, la Academia le asignó:
 
-b) En la Cancha 3, **una de las únicas dos posiciones de gran formato disponibles** (11.30 m), equivalente a cuatro Espacios Publicitarios individuales, lo que constituye **la superficie publicitaria individual más grande asignada a marca alguna en el Complejo**.
+a) En la Cancha 1, un espacio de **doble superficie** (11.60 × 1.95 m) en posición lateral frente a gradas.
 
-5.4 **Permanencia y no dilución.** La Academia se obliga a mantener las vallas instaladas, visibles, íntegras y sin obstrucción durante toda la vigencia, y a **no reducir el número de Espacios Publicitarios asignados** ni reubicar las vallas a posiciones de menor visibilidad sin autorización escrita del Patrocinador.
+b) En la Cancha 3, la **primera posición del costado lateral** (5.50 × 1.95 m), en el extremo de acceso a la cancha.
 
-5.5 **Producción, instalación y mantenimiento.** `[A definir: la producción e impresión de las vallas corre a cargo de <Parte>; la instalación, conservación y limpieza a cargo de la Academia.]` En caso de deterioro por causas ajenas a la Academia (clima, vandalismo), las Partes acordarán la reposición conforme a la Cláusula 13.6.
+c) En la Cancha 3, **una de las únicas dos posiciones de Gran Formato existentes en el Complejo** (11.30 × 3.84 m), la cual constituye **la mayor superficie publicitaria individual asignada a una marca de terceros en la totalidad de las instalaciones**.
 
-5.6 **Destino al término.** Concluida la vigencia sin renovación, las vallas serán retiradas por la Academia dentro de los `[15]` días naturales siguientes y quedarán a disposición del Patrocinador para su recolección, o serán destruidas previa evidencia fotográfica, según instruya el Patrocinador.
+5.6 **Permanencia y no dilución.** La Academia se obliga a mantener las vallas instaladas, visibles, íntegras y sin obstrucción durante toda la vigencia, y a **no reducir la superficie ni el número de Espacios Publicitarios asignados**, ni reubicar las vallas a posiciones de menor visibilidad o fuera de la orientación lateral frente a gradas, sin autorización escrita del Patrocinador.
 
-> **Pendiente de confirmación (ver Cláusula 15, punto 2).** El inventario declarado en la Cancha 3 requiere precisión: si un Espacio Publicitario individual mide 5.80 m, cuatro espacios equivaldrían a 23.20 m y no a los 11.30 m de la valla de gran formato. Es probable que los módulos de la Cancha 3 tengan una medida distinta a los de la Cancha 1. Antes de la firma debe cerrarse la medida del módulo estándar por cancha, para que la tabla 5.1 sea aritméticamente defendible ante el área de marketing del Patrocinador.
+5.7 **Inventario no asignado.** No forman parte del inventario asignado al Patrocinador en el presente convenio:
+
+a) La **Cancha 2** del Complejo.
+b) Los **paneles ubicados detrás de las porterías** de las Canchas 1 y 3, actualmente destinados a la comunicación institucional de la Academia y de la Liga.
+
+Las Partes podrán acordar por escrito la ampliación de la publicidad perimetral a dichos espacios, previa revisión de las contraprestaciones recíprocas.
+
+5.8 **Producción, instalación y mantenimiento.** `[A definir: la producción e impresión de las vallas corre a cargo de <Parte>; la instalación, conservación y limpieza a cargo de la Academia.]` En caso de deterioro por causas ajenas a la Academia (clima, vandalismo), las Partes acordarán la reposición conforme a la Cláusula 13.6.
+
+5.9 **Destino al término.** Concluida la vigencia sin renovación, las vallas serán retiradas por la Academia dentro de los `[15]` días naturales siguientes y quedarán a disposición del Patrocinador para su recolección, o serán destruidas previa evidencia fotográfica, según instruya el Patrocinador.
+
+5.10 **Anexo gráfico.** El plano de distribución de la publicidad perimetral de las Canchas 1 y 3, con medidas y posiciones, forma parte integrante del presente convenio como **Anexo F**.
 
 ---
 
@@ -159,9 +181,27 @@ d) **Eventos especiales** e institucionales de la Academia.
 
 8.4 **Activaciones presenciales.** El Patrocinador podrá realizar hasta `[2]` activaciones presenciales por semestre dentro del Complejo, sin costo por uso de espacio, previa coordinación de fecha y logística con la Academia.
 
-8.5 **Asociación de marca.** El Patrocinador queda asociado a los procesos reales de formación, disciplina y desarrollo deportivo de la Academia, así como a la figura pública de Andrés Chitiva, en los términos y con los alcances que se pacten por separado respecto del uso de su nombre e imagen.
+8.5 **Asociación de marca.** El Patrocinador queda asociado a los procesos reales de formación, disciplina y desarrollo deportivo de la Academia.
 
-> **Pendiente:** el uso del nombre e imagen de Andrés Chitiva como persona es un derecho distinto y de alto valor. Definir expresamente si está incluido o excluido de este convenio; si está incluido, delimitar el alcance (menciones institucionales sí / campañas publicitarias de producto no, por ejemplo).
+8.6 **Uso del nombre e imagen de Andrés Chitiva — alcance incluido.** Queda comprendido en el presente convenio, sin costo adicional para el Patrocinador:
+
+a) El uso de la denominación **"Academia de Fútbol Andrés Chitiva"** en las comunicaciones relativas a la alianza.
+
+b) La **presencia y participación de Andrés Chitiva** en las actividades, eventos, clínicas, visorías y contenidos generados **dentro del Complejo** al amparo de este convenio, así como el uso de su imagen en dicho material, en su calidad de titular y director de la Academia.
+
+c) La difusión por parte del Patrocinador del contenido señalado en el inciso anterior, conforme a la licencia de la Cláusula 7.4.
+
+8.7 **Uso del nombre e imagen de Andrés Chitiva — alcance excluido.** **No queda comprendido** en el presente convenio y requerirá acuerdo independiente celebrado directamente entre Andrés Chitiva y el Patrocinador:
+
+a) El uso de su nombre, imagen, voz o firma como **endoso personal o embajador de marca**.
+
+b) Su participación en **campañas publicitarias, comerciales, spots, empaques o material de punto de venta** del Patrocinador.
+
+c) Cualquier uso de su imagen **fuera del contexto de las actividades de la Academia**.
+
+d) La asociación de su figura a productos específicos del Patrocinador con fines de promoción comercial.
+
+> **Nota estratégica:** esta separación te protege. Andrés Chitiva ya sostiene comunicación directa con VOIT para el uso personal de su nombre e imagen, y ese es un derecho de valor muy superior al del patrocinio de equipamiento. Si el convenio de la Academia no lo delimita, VOIT podría interpretar que obtiene el endoso personal incluido en el canje de balones, y se pierde la posibilidad de negociarlo por separado en sus propios términos.
 
 ---
 
@@ -188,17 +228,23 @@ d) Al término del periodo de uso, las Partes evaluarán una nueva solicitud de 
 
 a) Cuando la Academia requiera balones o Material Deportivo adicional al aportado en especie, lo adquirirá **directamente con el Patrocinador**.
 
-b) El Patrocinador otorgará a la Academia un **precio preferencial** consistente en `[un descuento del __% sobre precio de lista / precio de distribuidor autorizado / lista de precios del Anexo C]`, aplicable durante toda la vigencia del convenio.
+b) El Patrocinador otorgará a la Academia un **precio preferencial** consistente en `[un descuento del __% sobre precio de lista, conforme a la lista de precios del Anexo C]`, aplicable durante toda la vigencia del convenio.
 
-c) Condiciones comerciales:
+c) **Cláusula de cliente más favorecido (redacción de respaldo).** En caso de que las Partes no fijen un porcentaje de descuento determinado, el precio aplicable a la Academia será, en todo caso, **el más favorable que el Patrocinador otorgue a cualquiera de sus distribuidores autorizados o clientes institucionales de volumen comparable**, y en ningún caso superior al precio de lista menos `[__]%`. El Patrocinador acreditará el cumplimiento de esta condición a solicitud razonable de la Academia.
+
+d) Condiciones comerciales:
    - Pedido mínimo: `[__]`
    - Plazo de entrega: `[__]` días hábiles a partir de la orden de compra confirmada
    - Condiciones de pago: `[__]`
    - Vigencia de la lista de precios: `[__]`
 
-d) El Patrocinador se obliga a mantener disponibilidad razonable de inventario para atender los pedidos de la Academia, o a notificar con oportunidad cualquier desabasto.
+e) El Patrocinador se obliga a mantener disponibilidad razonable de inventario para atender los pedidos de la Academia, o a notificar con oportunidad cualquier desabasto.
 
-> **Pendiente crítico:** el "precio preferencial" debe quedar numérico o referido a una lista anexa. Una cláusula que solo diga "precio preferencial" es prácticamente inejecutable. Idealmente, que el descuento de compra directa sea **igual o mejor** que el margen de reventa de la Cláusula 10, para no crear un incentivo contradictorio.
+> **Nota de negociación.** Al ser un punto abierto, conviene entrar a la mesa con tres elementos preparados:
+>
+> 1. **No aceptar la expresión "precio preferencial" a secas.** Una cláusula sin porcentaje ni referencia objetiva es prácticamente inejecutable: en la práctica equivale a no tener descuento pactado. Si el Patrocinador no quiere comprometer un número en esta etapa, usa la redacción del inciso c): amarra el precio a una referencia verificable (el mejor precio de distribuidor) sin necesidad de fijar la cifra hoy.
+> 2. **Pide precio de distribuidor autorizado, no descuento de cliente final.** Es la referencia correcta dado que la Academia también operará como punto de venta conforme a la Cláusula 10.
+> 3. **Coherencia con la comisión de consignación.** El descuento de compra directa y la comisión de consignación deben guardar relación: si comprar directo resulta más rentable que vender en consignación, el punto de venta se vuelve un canal que la Academia no tendrá incentivo en impulsar, y viceversa. Negocia ambos números en la misma conversación, no por separado.
 
 ---
 
@@ -208,11 +254,23 @@ d) El Patrocinador se obliga a mantener disponibilidad razonable de inventario p
 
 10.2 **Justificación de valor.** El Complejo concentra un flujo estimado de 12,000 personas al mes con una permanencia promedio superior a 90 minutos, integrado por consumidores activos de equipamiento deportivo con alta frecuencia de recompra y por tomadores de decisión de compra familiar. El punto de venta opera como **acelerador natural de conversión**: convierte la exposición de marca en venta dentro de la misma visita.
 
-10.3 **Modelo de operación.** `[Seleccionar y desarrollar uno:]`
+10.3 **Modelo de operación: consignación.** Las Partes acuerdan operar el punto de venta bajo la modalidad de **consignación**, conforme a lo siguiente:
 
-**Opción A — Consignación:** el Patrocinador entrega producto en consignación; la Academia lo exhibe y vende, conserva una comisión del `[__]%` sobre el precio de venta al público y liquida el remanente `[mensualmente]`. El inventario permanece propiedad del Patrocinador hasta su venta y el riesgo de no venta corre a su cargo, con derecho de retiro del producto no vendido.
+a) El Patrocinador entregará producto **en consignación**, sin que la Academia deba realizar pago alguno por su recepción.
 
-**Opción B — Compra para reventa:** la Academia adquiere producto a precio de mayoreo/distribuidor (`[__]%` sobre lista) y lo revende, asumiendo el inventario y su riesgo, con un margen objetivo del `[__]%`.
+b) El **inventario permanece en propiedad del Patrocinador** hasta el momento de su venta al consumidor final.
+
+c) La Academia exhibirá y venderá el producto, conservando una **comisión del `[__]%`** sobre el precio de venta al público, y liquidará el remanente al Patrocinador de forma `[mensual]`, dentro de los `[10]` días siguientes al cierre de cada periodo.
+
+d) El **riesgo de no venta corre a cargo del Patrocinador**, quien podrá retirar en cualquier momento el producto no vendido, previa notificación con `[15]` días de anticipación.
+
+e) La Academia responderá únicamente por el producto perdido o dañado por causas que le sean imputables, conforme al `[precio de consignación]`.
+
+f) Las Partes practicarán un **inventario conjunto** al inicio de la relación y al cierre de cada `[trimestre]`, del que se levantará constancia firmada.
+
+g) El producto en consignación **no se computa** dentro de la aportación en especie de la Cláusula 9.1.
+
+> **Ventaja del modelo para la Academia:** al no requerir desembolso ni asumir el riesgo de inventario, la consignación permite abrir el canal de venta sin comprometer capital de trabajo. La contrapartida es un margen menor al de la compra para reventa; por ello conviene negociar la comisión en el rango alto y revisarla al alza en la renovación, una vez que existan cifras reales de rotación.
 
 10.4 **Condiciones comunes:**
    - **Espacio:** la Academia destinará un espacio de exhibición de `[__] m²` en `[recepción / tienda / área comercial]`, en zona de paso obligado.
@@ -279,12 +337,12 @@ Para usar como tabla de cierre en el contrato o como lámina en la presentación
 | # | Contraprestación | Alcance |
 |---|---|---|
 | 1 | Exclusividad de categoría | **Marca única de balones** en Academia y **Liga** (+210 equipos) |
-| 2 | Publicidad perimetral | 3 vallas · **28.70 m lineales** · **7 de 18 espacios (38.9%)** · **1 de solo 2 posiciones de gran formato** |
+| 2 | Publicidad perimetral | 3 vallas · **76.74 m² de superficie** · 28.40 m lineales · **7 de 18 módulos (38.9%)** · **1 de solo 2 posiciones de Gran Formato** · lateral frente a gradas |
 | 3 | Branding en uniformes | Logo VOIT en uniformes de `[__]` Alumnos + 50 casacas |
 | 4 | Denominación oficial | Proveedor Oficial de Equipamiento Deportivo de la Academia |
 | 5 | Contenido digital | `[2]` posts + `[2]` reels + `[8]` historias mensuales con etiquetado |
 | 6 | Eventos | Clínicas, visorías, ruedas de prensa, jornadas de Liga + `[2]` activaciones/semestre |
-| 7 | Punto de venta autorizado | Espacio de venta física dentro del Complejo con reporte de ventas por SKU |
+| 7 | Punto de venta autorizado | Venta física en consignación dentro del Complejo, con reporte de ventas por SKU |
 | 8 | Alcance | 12,000 personas/mes · 60,000 impactos/mes · +90 min de permanencia · NSE C a A |
 | 9 | Canal de compra directa | La Academia como cliente recurrente a precio preferencial |
 | 10 | **Operación vigente** | Academia y Liga **operando desde agosto de 2026**: cifras reales, no proyecciones |
@@ -293,13 +351,32 @@ Para usar como tabla de cierre en el contrato o como lámina en la presentación
 
 ## 15. Puntos abiertos que debes resolver antes de la firma
 
-1. **Número total de canchas del Complejo.** VOIT tiene presencia en 2 (Cancha 1 y Cancha 3); hace falta el total para expresar la cobertura con precisión.
-2. **Medida del Espacio Publicitario estándar en cada cancha.** Ver la nota al final de la Cláusula 5: los 11.30 m declarados como 4 espacios no cuadran con los 5.80 m declarados como 1 espacio en la misma cancha. Necesito la medida del módulo por cancha para cerrar la tabla.
-3. **Ubicación específica** de cada valla (lateral, detrás de portería, zona de banca), para el Anexo F y para argumentar visibilidad.
-4. **Porcentaje de descuento preferencial**, numérico.
-5. **Modelo del punto de venta:** consignación o compra para reventa, y el porcentaje.
-6. **Uso del nombre e imagen de Andrés Chitiva:** ¿incluido o excluido?
-7. **Quién paga** la producción de vallas y la aplicación del logo en uniformes.
-8. **Número exacto de Alumnos y de piezas de uniforme** con logo.
-9. **Fecha de inicio de vigencia:** ¿firma o entrega del equipamiento?
-10. **Razón social, representantes legales y domicilios** de ambas Partes.
+### Resueltos
+
+| Punto | Definición |
+|---|---|
+| Canchas del Complejo | **3** · VOIT presente en Cancha 1 y Cancha 3 |
+| Medida del módulo estándar | Cancha 1: 5.80 × 1.95 m · Cancha 3: 5.50 × 1.95 m · equivalencia **por superficie** |
+| Ubicación de las vallas | **Lateral, frente a gradas** en ambas canchas |
+| Modelo del punto de venta | **Consignación** |
+| Nombre e imagen de Andrés Chitiva | **Incluido** en el contexto de la Academia · **excluido** el endoso personal (Cláusulas 8.6 y 8.7) |
+
+### Pendientes
+
+1. **Comisión de consignación** (Cláusula 10.3.c) — negociar junto con el punto 2.
+2. **Descuento por compra directa** (Cláusula 9.2) — punto de negociación; llevar preparada la redacción de respaldo de cliente más favorecido.
+3. **Inventario comercializable de la Cancha 1.** El plano indica un costado lateral de 58.00 m que, a módulos de 5.80 m, arroja 10 módulos. El convenio declara 9. Confirmar si un módulo está reservado a comunicación institucional o si el conteo debe ajustarse a 10 (lo que situaría la participación de VOIT en 7 de 19 módulos, 36.8%).
+4. **Quién paga** la producción de vallas y la aplicación del logo en uniformes.
+5. **Número exacto de Alumnos y de piezas de uniforme** con logo.
+6. **Fecha de inicio de vigencia:** ¿firma o entrega del equipamiento?
+7. **Espacio y ubicación del punto de venta** dentro del Complejo, en m².
+8. **Razón social, representantes legales y domicilios** de ambas Partes.
+
+### Oportunidad comercial identificada
+
+El Complejo mantiene **inventario publicitario sin comercializar** que no forma parte de este convenio:
+
+- **Cancha 2** completa
+- Paneles **detrás de portería** en Cancha 1 (2 × 11.80 m) y Cancha 3 (11.80 + 11.50 m y 12.45 + 11.35 m), hoy con comunicación institucional propia
+
+Son aproximadamente **59 metros lineales adicionales** solo en los fondos de las Canchas 1 y 3. Conviene reservarlos como **material de negociación para la renovación**: ampliar la presencia de VOIT a esos espacios es una concesión de alto valor percibido que no requiere inversión de la Academia, y sirve para pedir a cambio un incremento en la aportación en especie o una mejora en el precio preferencial.

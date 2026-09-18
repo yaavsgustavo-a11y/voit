@@ -25,10 +25,11 @@ Análisis del archivo `presentacion voit (1).pdf` (8 láminas) y del anexo `Fluj
 
 La presentación **no menciona en ninguna lámina las tres vallas publicitarias**, que son el activo más tangible y medible de toda la propuesta:
 
-- **28.70 metros lineales** de publicidad perimetral
-- **7 de 18 espacios publicitarios** entre las dos canchas: **38.9% del inventario**
-- **55.6% del inventario de la Cancha 3** (5 de 9 espacios)
-- **1 de solo 2 posiciones de gran formato** que existen en el Complejo
+- **76.74 m² de superficie publicitaria** · 28.40 metros lineales
+- **7 de 18 módulos** entre las dos canchas: **38.9% del inventario lateral**
+- **55.6% del inventario de la Cancha 3** (5 de 9 módulos)
+- **1 de solo 2 posiciones de Gran Formato** que existen en el Complejo
+- **La mayor superficie publicitaria asignada a una marca de terceros en todas las instalaciones**
 
 Hoy la lámina de contraprestaciones solo dice, dentro de "Visibilidad Física", que habrá "presencia de marca" en eventos y uniformes. Eso hace que un patrocinador lea la propuesta como *goodwill deportivo* en lugar de *inventario publicitario asignado*. Es la diferencia entre pedir un favor y presentar un intercambio comercial.
 
@@ -59,34 +60,69 @@ Hay que reescribir el documento **en presente**:
 Colócala **inmediatamente antes** de la lámina de contraprestaciones, o convierte "Visibilidad Física" en esta lámina.
 
 > **PUBLICIDAD PERIMETRAL ASIGNADA**
-> **3 vallas instaladas · 28.70 metros lineales · 38.9% del inventario del Complejo**
+> **3 vallas instaladas · 76.74 m² de superficie · 38.9% del inventario lateral**
 
-| Cancha | Medida | Formato | Espacios ocupados |
-|---|---|---|---|
-| Cancha 1 | 11.60 m | Doble | 2 de 9 |
-| Cancha 3 | 5.80 m | Individual | 1 de 9 |
-| Cancha 3 | 11.30 m | **Gran formato** | 4 de 9 |
-| **Total** | **28.70 m** | | **7 de 18 espacios** |
+| Cancha | Medida | Superficie | Formato | Módulos |
+|---|---|---|---|---|
+| Cancha 1 | 11.60 × 1.95 m | 22.62 m² | Doble | 2 de 9 |
+| Cancha 3 | 5.50 × 1.95 m | 10.73 m² | Individual | 1 de 9 |
+| Cancha 3 | 11.30 × 3.84 m | **43.39 m²** | **Gran Formato** | 4 de 9 |
+| **Total** | **28.40 m lineales** | **76.74 m²** | | **7 de 18** |
 
-> **VOIT ocupa el 55.6% del inventario publicitario de la Cancha 3 y una de las únicas 2 posiciones de gran formato que existen en el Complejo.**
+> **VOIT ocupa el 55.6% del inventario de la Cancha 3, una de las únicas 2 posiciones de Gran Formato del Complejo, y la mayor superficie publicitaria asignada a una marca de terceros en las instalaciones.**
 
-**Incluye fotografías reales de las tres vallas ya instaladas.** Es tu argumento más fuerte: no propones algo a futuro, ya está operando desde agosto. Una foto de la valla de 11.30 m en cancha vale más que tres viñetas de texto.
+**Ya tienes los planos: úsalos.** Los diagramas de Cancha 1 y Cancha 3 son material listo para la presentación y son mucho más persuasivos que una lista de viñetas, porque muestran a VOIT en contexto competitivo: el visor ve de inmediato que su espacio es el más grande del costado. Súmales fotografías reales de las tres vallas instaladas.
 
-Agrega también, si lo tienes: un **plano del Complejo** marcando la ubicación de cada valla y el flujo de circulación de personas.
+Es tu argumento más fuerte: no propones algo a futuro, ya está operando desde agosto.
 
 ### 3.2 El dato de share of voice, explícito
 
 Este es el número que un área de marketing entiende de inmediato:
 
-> **38.9% del inventario publicitario del Complejo**
+> **38.9% del inventario lateral del Complejo**
 > **55.6% de la Cancha 3**
-> **1 de 2 posiciones de gran formato**
+> **1 de 2 posiciones de Gran Formato**
+> **La mayor superficie de marca de terceros en las instalaciones**
 
 Es lo que justifica la exclusividad de categoría y lo que convierte la conversación en una negociación entre pares.
 
-**Ojo con la aritmética antes de publicarlo.** En la Cancha 3 declaras que 5.80 m equivale a 1 espacio y que 11.30 m equivale a 4 espacios. Si un módulo mide 5.80 m, cuatro módulos serían 23.20 m, no 11.30 m. Necesito la medida del módulo estándar de cada cancha para que la tabla resista una revisión. Si un patrocinador detecta que los números no cierran, va a dudar de todo lo demás. Mientras se resuelve, puedes presentar los metros lineales y el conteo de espacios sin exponer la equivalencia metro-por-módulo.
+**La aritmética cierra.** Los planos confirman que la equivalencia en módulos se calcula **por superficie, no por metros lineales**, y así todo cuadra con precisión:
 
-### 3.3 Terminología: no digas "lonas"
+| Valla | Cálculo | Módulos |
+|---|---|---|
+| Cancha 1 · 11.60 × 1.95 m | 22.62 m² ÷ 11.31 m² | **2.00** |
+| Cancha 3 · 5.50 × 1.95 m | 10.73 m² ÷ 10.73 m² | **1.00** |
+| Cancha 3 · 11.30 × 3.84 m | 43.39 m² ÷ 10.73 m² | **4.05** |
+
+El Gran Formato duplica base **y** altura respecto del módulo estándar, de ahí que equivalga a 4 módulos. **Explica este criterio en la lámina o en una nota al pie:** si presentas "11.30 m = 4 espacios" sin aclarar que la unidad es superficie, quien lo lea va a dividir 11.30 entre 5.50, obtener 2 y pensar que inflaste la cifra. Con la superficie explícita, el dato es incuestionable.
+
+Dos precisiones que corrigen lo que me habías dicho antes:
+
+- La valla individual de la Cancha 3 mide **5.50 m**, no 5.80 m. Los 5.80 m son el módulo de la **Cancha 1**. El total lineal es **28.40 m**.
+- El módulo estándar difiere entre canchas (5.80 m en la 1, 5.50 m en la 3), así que el porcentaje debe calcularse por cancha y no con una medida única.
+
+### 3.3 Lo que revelan los planos y que conviene aprovechar
+
+Al revisar los diagramas aparecen tres cosas útiles para la negociación:
+
+**a) VOIT ya es la marca de terceros con mayor superficie.** Comparativo de la Cancha 3:
+
+| Marca | Superficie | Formato |
+|---|---|---|
+| YAAVS | 68.48 m² (16.50 × 4.15 m) | Gran Formato — inventario propio |
+| **VOIT** | **43.39 m²** (11.30 × 3.84 m) | **Gran Formato** |
+| Mazda | ~21.5 m² (2 módulos) | Lateral estándar |
+| Automoda, siitec y resto | ~10.7 m² (1 módulo) | Lateral estándar |
+
+Descontando el espacio institucional propio, **VOIT tiene el doble de superficie que el siguiente anunciante**. Eso ya no es un favor: es la posición principal del complejo. Dilo en la lámina.
+
+**b) VOIT es la única marca presente en las dos canchas con tres vallas.** Verifícalo antes de afirmarlo, pero por lo que muestran los planos, ninguna otra marca comercial tiene tres emplazamientos.
+
+**c) Hay inventario sin vender que sirve como moneda de cambio.** Los fondos detrás de portería —2 × 11.80 m en Cancha 1, y 11.80 + 11.50 m y 12.45 + 11.35 m en Cancha 3— están hoy con comunicación propia de la Academia y de la Liga Chitiva. Son unos **59 metros lineales** adicionales, más la Cancha 2 completa.
+
+No los incluyas en esta propuesta. Resérvalos para la renovación: ampliar la presencia de VOIT a los fondos es una concesión de alto valor percibido que no te cuesta inversión, y te sirve para pedir a cambio más equipamiento o un mejor precio preferencial. Tener inventario en reserva es lo que te da margen de negociación en seis meses.
+
+### 3.4 Terminología: no digas "lonas"
 
 Tienes razón en que suena informal. Vocabulario recomendado, del más al menos formal:
 
@@ -100,7 +136,7 @@ Tienes razón en que suena informal. Vocabulario recomendado, del más al menos 
 
 En el contrato ya quedó redactado así. El término **"valla publicitaria"** es el estándar de la industria del patrocinio deportivo y es el que usa el área comercial de cualquier marca.
 
-### 3.4 Lámina nueva: "Punto de Venta Autorizado"
+### 3.5 Lámina nueva: "Punto de Venta Autorizado"
 
 Merece lámina propia, no una viñeta. Es el único componente de la propuesta que genera **ingreso directo** para VOIT, no solo exposición:
 
@@ -111,13 +147,16 @@ Merece lámina propia, no una viñeta. Es el único componente de la propuesta q
 > - Consumidores con alta frecuencia de recompra de equipamiento
 > - Padres de familia como tomadores de decisión, ya presentes en el sitio
 > - El producto se prueba en cancha y se compra en el mismo lugar
+> - Operación **en consignación**: VOIT conserva la propiedad del inventario y el control del precio
 > - Reporte mensual de ventas por SKU: **información directa de comportamiento de consumo**
 >
 > *El punto de venta convierte la permanencia de +90 minutos en oportunidad de conversión.*
 
+Menciona la consignación en la lámina: para VOIT es una objeción menos, porque no cede control de inventario ni de precio, y no requiere abrir a la Academia como distribuidor formal.
+
 El dato del reporte de ventas por SKU es un beneficio que probablemente no habías considerado y que a un fabricante le interesa mucho: es research de mercado gratuito en un canal que normalmente no puede medir.
 
-### 3.5 Reforzar la exclusividad como beneficio
+### 3.6 Reforzar la exclusividad como beneficio
 
 Hoy aparece como una viñeta ("Uso exclusivo de balones Voit"). Conviértela en un bloque destacado y **súmale la Liga**, que es donde está el volumen:
 
@@ -134,7 +173,7 @@ Dos precisiones importantes:
 - **Delimita a balones.** Como la exclusividad es solo de balones, dilo así en la lámina. Si dices "material deportivo" sin delimitar, VOIT puede asumir que abarca indumentaria, calzado y accesorios, y después la negociación se complica o te bloqueas a ti mismo para otros patrocinios.
 - **Los +210 equipos no aparecen en la presentación.** Ese dato está en tu anexo de flujo y es una de tus cifras más potentes. Súbelo.
 
-### 3.6 Lámina de compra directa / precio preferencial
+### 3.7 Lámina de compra directa / precio preferencial
 
 Preséntalo desde la perspectiva de VOIT, no como una petición de descuento:
 
@@ -146,7 +185,7 @@ Preséntalo desde la perspectiva de VOIT, no como una petición de descuento:
 
 Encuadrarlo como "somos un canal de venta recurrente" es mucho más persuasivo que "esperamos un descuento".
 
-### 3.7 Lámina de cierre con siguiente paso
+### 3.8 Lámina de cierre con siguiente paso
 
 La presentación termina en "Vigencia y Valoración", que es una lámina administrativa. Cierra con acción:
 
@@ -159,7 +198,7 @@ La presentación termina en "Vigencia y Valoración", que es una lámina adminis
 
 **No hay datos de contacto en la presentación.** Agrégalos.
 
-### 3.8 Integrar las cifras del anexo de flujo
+### 3.9 Integrar las cifras del anexo de flujo
 
 El documento `Flujo de personas Chitiva` es más rico y mejor argumentado que la lámina de "Alcance y Audiencia", pero es un anexo de texto plano que probablemente nadie lea completo. Sube a la presentación principal:
 
@@ -260,7 +299,7 @@ Sigue siendo una presentación corta y ahora sí cierra la venta.
 Las láminas actuales son listas de viñetas de peso visual uniforme. En cada lámina, **elige un número protagonista** y hazlo grande:
 
 - Alcance → **12,000** personas/mes
-- Inventario → **38.9%** del inventario publicitario · **28.70 m**
+- Inventario → **76.74 m²** de superficie · **38.9%** del inventario lateral
 - Exclusividad → **+210** equipos
 - Permanencia → **+90** minutos
 - Operación → **desde agosto de 2026**
@@ -273,7 +312,7 @@ El PDF pesa **23.9 MB**, casi todo en imágenes. Muchos servidores de correo cor
 
 El anexo tiene mejores argumentos que la presentación pero está en texto corrido sin diseño. Dos opciones:
 
-- **Recomendada:** sube sus mejores datos a la presentación (ver 3.8) y reduce el anexo a un respaldo metodológico de 1-2 páginas para quien pida el detalle.
+- **Recomendada:** sube sus mejores datos a la presentación (ver 3.9) y reduce el anexo a un respaldo metodológico de 1-2 páginas para quien pida el detalle.
 - Alternativa: diseña el anexo con la misma identidad visual de la presentación y preséntalo como "Estudio de Alcance y Exposición".
 
 En cualquier caso hay que actualizarlo: todo el anexo está redactado como **proyección** ("flujo proyectado", "resultado estimado", "impactos proyectados") cuando ya tienes operación real.
@@ -288,7 +327,7 @@ Además, contiene dos cosas a corregir si lo envías tal cual:
 El argumento central que hoy no está dicho de forma explícita en ninguna parte:
 
 > VOIT aporta **producto a costo de fabricación**.
-> La Academia entrega **38.9% de su inventario publicitario, exclusividad de categoría en Academia y Liga, branding en uniformes, contenido dedicado, un canal de venta física y un cliente recurrente.**
+> La Academia entrega **76.74 m² de superficie publicitaria (38.9% de su inventario lateral), exclusividad de categoría en Academia y Liga, branding en uniformes, contenido dedicado, un canal de venta física y un cliente recurrente.**
 
 Dicho así, en una sola lámina, es el mejor cierre posible: no necesita cifras monetarias para que la asimetría sea evidente.
 
@@ -298,7 +337,7 @@ Dicho así, en una sola lámina, es el mejor cierre posible: no necesita cifras 
 
 **Reescribir en presente:** la Academia y la Liga operan desde agosto de 2026. Cambiar proyecciones por cifras reales y quitar todo lenguaje de "próxima apertura". Es el cambio de mayor impacto.
 
-**Agregar (3 láminas nuevas):** Inventario Publicitario con fotos reales y el 38.9% · Punto de Venta Autorizado · Siguiente paso y contacto.
+**Agregar (3 láminas nuevas):** Inventario Publicitario con los planos de Cancha 1 y Cancha 3, los 76.74 m² y el 38.9% · Punto de Venta Autorizado en consignación · Siguiente paso y contacto.
 
 **Potenciar:** exclusividad de balones con los +210 equipos de la Liga · el argumento de +90 min vs. publicidad de impacto breve · compra directa como cliente recurrente.
 
@@ -306,4 +345,6 @@ Dicho así, en una sola lámina, es el mejor cierre posible: no necesita cifras 
 
 **Quitar:** imágenes "ilustrativas y conceptuales" · el disclaimer del cierre (moverlo a pie de página) · la redundancia de la lámina 4 · la viñeta "exposición directa a compradores" · la palabra "Valoración" del título de la lámina 8 · el insight de "productos calóricos" y el branding en muros del anexo.
 
-**Corregir:** 10 erratas de texto y fechas · la inconsistencia de cifras 2,500 / 2,100 / 3,000 / 12,000 · la equivalencia metros-por-módulo de la Cancha 3 · el peso del archivo.
+**Corregir:** 10 erratas de texto y fechas · la inconsistencia de cifras 2,500 / 2,100 / 3,000 / 12,000 · el peso del archivo · la medida de la valla de Cancha 3 (5.50 m, no 5.80 m) en cualquier material donde ya la hayas citado.
+
+**Reservar:** los fondos detrás de portería y la Cancha 2 como inventario de negociación para la renovación.
