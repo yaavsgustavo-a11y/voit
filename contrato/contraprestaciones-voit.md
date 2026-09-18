@@ -145,24 +145,42 @@ Las Partes podrán acordar por escrito la ampliación de la publicidad perimetra
 
 ## 7. Contenido digital y visibilidad de marca
 
-7.1 **Contenido específico de VOIT.** La Academia producirá y publicará contenido dedicado a la marca, con los siguientes entregables mínimos por mes de vigencia:
+7.1 **Objeto.** La Academia producirá y publicará en sus **Redes Sociales Oficiales** contenido audiovisual y fotográfico en el que el **balón VOIT aparezca de forma visible y protagónica**, integrado a las actividades reales de formación, entrenamiento y competencia que se desarrollan en el Complejo.
 
-| Entregable | Volumen mínimo mensual | Canal |
+7.2 **Entregables mínimos mensuales.**
+
+| Tipo de contenido | Descripción | Volumen mínimo mensual |
 |---|---|---|
-| Publicaciones en feed con producto VOIT visible | `[2]` | Instagram / Facebook |
-| Reels o video corto protagonizado por producto VOIT | `[2]` | Instagram / TikTok |
-| Historias con etiquetado a @voit | `[8]` | Instagram |
-| Menciones de marca en comunicados o notas | `[1]` | Redes / prensa |
+| Video de técnica o ejercicio | Control, conducción, pase o remate con el balón VOIT como elemento central del cuadro | `[2]` |
+| Reel de sesión de entrenamiento | Registro de entrenamiento o jornada con el balón VOIT en uso | `[2]` |
+| Publicación en feed | Fotografía o carrusel con el balón VOIT visible | `[2]` |
+| Historias | Contenido efímero con etiquetado a las cuentas del Patrocinador | `[8]` |
+| Testimonial | Declaración de alumno, entrenador o cuerpo técnico sobre el equipamiento | `[1]` |
+| Cobertura de evento | Visorías, clínicas, jornadas de Liga y eventos especiales con el balón VOIT en uso | Según calendario |
 
-7.2 Toda pieza incluirá el etiquetado y mención de las cuentas oficiales de VOIT.
+7.3 **Requisitos técnicos y de marca.** Todo contenido producido al amparo de esta cláusula deberá cumplir:
 
-7.3 **Piezas gráficas institucionales.** El logotipo de VOIT se integrará en las piezas gráficas institucionales y publicitarias de la Academia, incluyendo `[convocatorias, credenciales, backdrops, señalización, firma de correo, sitio web]`.
+a) El balón VOIT aparecerá **en uso real**, no como objeto estático de exhibición, salvo en las piezas fotográficas de producto.
 
-7.4 **Cesión de uso de contenido.** La Academia otorga al Patrocinador una licencia no exclusiva, libre de regalías y por el plazo de `[la vigencia + 12 meses]`, para reproducir y difundir en sus propios canales el contenido generado al amparo de este convenio, respetando los derechos de imagen aplicables.
+b) El logotipo del balón deberá resultar **legible** en al menos una toma de cada pieza audiovisual.
 
-7.5 **Derechos de imagen de menores.** La Academia se obliga a recabar y conservar las cartas de consentimiento de uso de imagen firmadas por padres o tutores de los Alumnos menores de edad, y a entregar copia al Patrocinador cuando este lo solicite. El Patrocinador no podrá utilizar la imagen de menores sin dicho consentimiento vigente.
+c) **No aparecerá en cuadro** ningún balón, logotipo, empaque o material de marcas competidoras del Patrocinador.
 
-7.6 **Reporte de cumplimiento.** La Academia entregará al Patrocinador, dentro de los primeros `[10]` días de cada mes, un reporte con evidencia fotográfica de las vallas y los uniformes, liga de las publicaciones realizadas y métricas de alcance disponibles.
+d) Toda pieza incluirá el **etiquetado y mención** de las cuentas oficiales de VOIT.
+
+e) Resolución mínima de `[1080p]` y formato `[vertical 9:16]` para historias y reels.
+
+7.4 **Piezas gráficas institucionales.** El logotipo de VOIT se integrará en las piezas gráficas institucionales y publicitarias de la Academia, incluyendo `[convocatorias, credenciales, backdrops, señalización, firma de correo, sitio web]`.
+
+7.5 **Cesión de uso de contenido.** La Academia otorga al Patrocinador una licencia no exclusiva, libre de regalías y por el plazo de `[la vigencia + 12 meses]`, para reproducir, adaptar y difundir en sus propios canales el contenido generado al amparo de este convenio, respetando los derechos de imagen aplicables. La Academia pondrá a disposición del Patrocinador los archivos en su resolución original a solicitud de este.
+
+7.6 **Derechos de imagen de menores.** La Academia se obliga a recabar y conservar las cartas de consentimiento de uso de imagen firmadas por padres o tutores de los Alumnos menores de edad, y a entregar copia al Patrocinador cuando este lo solicite. El Patrocinador no podrá utilizar la imagen de menores sin dicho consentimiento vigente.
+
+7.7 **Aprobación previa.** El contenido orgánico de redes sociales no requerirá aprobación previa. Toda pieza que constituya campaña publicitaria, anuncio pagado o material de comunicación institucional que ostente la marca VOIT requerirá aprobación escrita previa del Patrocinador, en el plazo de la Cláusula 6.3.
+
+7.8 **Reporte de cumplimiento.** La Academia entregará al Patrocinador, dentro de los primeros `[10]` días de cada mes, un reporte con evidencia fotográfica de las vallas y los uniformes, la relación de publicaciones con sus enlaces y las métricas de alcance, impresiones e interacciones disponibles.
+
+> **Nota:** el inciso 7.3.c es la cláusula que convierte la exclusividad en algo verificable en el terreno digital. Sin ella, basta con que en un reel aparezca de fondo un balón de otra marca para diluir la exclusividad que estás vendiendo, y no habría base contractual para exigir su corrección.
 
 ---
 
@@ -340,7 +358,7 @@ Para usar como tabla de cierre en el contrato o como lámina en la presentación
 | 2 | Publicidad perimetral | 3 vallas · **76.74 m² de superficie** · 28.40 m lineales · **7 de 18 módulos (38.9%)** · **1 de solo 2 posiciones de Gran Formato** · lateral frente a gradas |
 | 3 | Branding en uniformes | Logo VOIT en uniformes de `[__]` Alumnos + 50 casacas |
 | 4 | Denominación oficial | Proveedor Oficial de Equipamiento Deportivo de la Academia |
-| 5 | Contenido digital | `[2]` posts + `[2]` reels + `[8]` historias mensuales con etiquetado |
+| 5 | Contenido en redes sociales | Contenido mensual con el **balón VOIT protagónico**: `[2]` videos de técnica + `[2]` reels de entrenamiento + `[2]` posts + `[8]` historias + `[1]` testimonial, sin marcas competidoras en cuadro |
 | 6 | Eventos | Clínicas, visorías, ruedas de prensa, jornadas de Liga + `[2]` activaciones/semestre |
 | 7 | Punto de venta autorizado | Venta física en consignación dentro del Complejo, con reporte de ventas por SKU |
 | 8 | Alcance | 12,000 personas/mes · 60,000 impactos/mes · +90 min de permanencia · NSE C a A |

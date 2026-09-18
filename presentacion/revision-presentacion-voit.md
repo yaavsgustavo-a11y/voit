@@ -136,7 +136,37 @@ Tienes razón en que suena informal. Vocabulario recomendado, del más al menos 
 
 En el contrato ya quedó redactado así. El término **"valla publicitaria"** es el estándar de la industria del patrocinio deportivo y es el que usa el área comercial de cualquier marca.
 
-### 3.5 Lámina nueva: "Punto de Venta Autorizado"
+### 3.5 Contenido en redes sociales con el balón: hazlo un entregable, no una promesa
+
+La lámina 7 dice hoy "generación de contenido foto y video utilizando equipamiento Voit" y "menciones en redes sociales". Es una promesa sin forma: no dice qué, cuánto, ni con qué frecuencia. Un patrocinador no puede evaluarla ni auditarla, así que en la práctica no la valora.
+
+Conviértela en un entregable cuantificado:
+
+> **CONTENIDO CON EL BALÓN VOIT**
+> Producción mensual dedicada, con el balón como protagonista:
+>
+> | Contenido | Al mes |
+> |---|---|
+> | Videos de técnica con el balón VOIT | `[2]` |
+> | Reels de sesión de entrenamiento | `[2]` |
+> | Publicaciones en feed | `[2]` |
+> | Historias con etiquetado | `[8]` |
+> | Testimonial de alumno o entrenador | `[1]` |
+>
+> **`[15]` piezas mensuales · `[90]` piezas en la vigencia**
+> Con el balón en uso real, logotipo legible y sin marcas competidoras en cuadro.
+
+Tres cosas que elevan mucho el valor percibido de esta lámina:
+
+**a) El total acumulado.** "`[90]` piezas de contenido en seis meses" es un número que se compara directamente con lo que a una marca le costaría producir ese volumen con una agencia. No necesitas ponerle precio: el volumen habla solo.
+
+**b) "Con el balón en uso real".** Es la diferencia entre contenido publicitario y contenido de producto en contexto. Para una marca de balones, ver el producto usado por alumnos en formación real es material que no puede generar con modelos en estudio. Véndelo así.
+
+**c) "Sin marcas competidoras en cuadro".** Este compromiso es el que hace que la exclusividad sea verificable en digital, y es un argumento que casi ningún patrocinado ofrece por escrito. Menciónalo: demuestra que entiendes cómo se protege una exclusividad de categoría.
+
+Agrega también que **VOIT puede reutilizar el contenido en sus propios canales** (la licencia de uso ya está en el clausulado). Para su equipo de marketing eso significa un flujo constante de material sin costo de producción, y suele ser más atractivo que el alcance de tus cuentas.
+
+### 3.6 Lámina nueva: "Punto de Venta Autorizado"
 
 Merece lámina propia, no una viñeta. Es el único componente de la propuesta que genera **ingreso directo** para VOIT, no solo exposición:
 
@@ -156,7 +186,7 @@ Menciona la consignación en la lámina: para VOIT es una objeción menos, porqu
 
 El dato del reporte de ventas por SKU es un beneficio que probablemente no habías considerado y que a un fabricante le interesa mucho: es research de mercado gratuito en un canal que normalmente no puede medir.
 
-### 3.6 Reforzar la exclusividad como beneficio
+### 3.7 Reforzar la exclusividad como beneficio
 
 Hoy aparece como una viñeta ("Uso exclusivo de balones Voit"). Conviértela en un bloque destacado y **súmale la Liga**, que es donde está el volumen:
 
@@ -173,7 +203,7 @@ Dos precisiones importantes:
 - **Delimita a balones.** Como la exclusividad es solo de balones, dilo así en la lámina. Si dices "material deportivo" sin delimitar, VOIT puede asumir que abarca indumentaria, calzado y accesorios, y después la negociación se complica o te bloqueas a ti mismo para otros patrocinios.
 - **Los +210 equipos no aparecen en la presentación.** Ese dato está en tu anexo de flujo y es una de tus cifras más potentes. Súbelo.
 
-### 3.7 Lámina de compra directa / precio preferencial
+### 3.8 Lámina de compra directa / precio preferencial
 
 Preséntalo desde la perspectiva de VOIT, no como una petición de descuento:
 
@@ -185,7 +215,7 @@ Preséntalo desde la perspectiva de VOIT, no como una petición de descuento:
 
 Encuadrarlo como "somos un canal de venta recurrente" es mucho más persuasivo que "esperamos un descuento".
 
-### 3.8 Lámina de cierre con siguiente paso
+### 3.9 Lámina de cierre con siguiente paso
 
 La presentación termina en "Vigencia y Valoración", que es una lámina administrativa. Cierra con acción:
 
@@ -198,7 +228,7 @@ La presentación termina en "Vigencia y Valoración", que es una lámina adminis
 
 **No hay datos de contacto en la presentación.** Agrégalos.
 
-### 3.9 Integrar las cifras del anexo de flujo
+### 3.10 Integrar las cifras del anexo de flujo
 
 El documento `Flujo de personas Chitiva` es más rico y mejor argumentado que la lámina de "Alcance y Audiencia", pero es un anexo de texto plano que probablemente nadie lea completo. Sube a la presentación principal:
 
@@ -283,14 +313,15 @@ El orden actual pide (lámina 5) antes de demostrar valor (láminas 6-7). Invier
 1. Portada
 2. La Academia *(quién somos · en operación desde agosto de 2026)*
 3. Alcance y Audiencia *(a quién llegamos — con cifras reales y los datos del anexo integrados)*
-4. **Inventario Publicitario — publicidad perimetral** *(nueva, con fotos y el 38.9%)*
+4. **Inventario Publicitario — publicidad perimetral** *(nueva, con planos y el 38.9%)*
 5. **Exclusividad de Categoría — balones · Academia + Liga** *(potenciada)*
-6. Contraprestaciones para VOIT *(el resto del paquete: uniformes, digital, eventos, denominación)*
-7. **Punto de Venta Autorizado** *(nueva)*
-8. Afinidad de Marca AFAC × VOIT *(por qué VOIT y no otra)*
-9. Aportación solicitada en especie *(la petición, ya justificada)*
-10. Vigencia y Condiciones *(incluye precio preferencial y compra directa)*
-11. **Siguiente paso y contacto** *(nueva)*
+6. **Contenido con el Balón VOIT** *(nueva: entregables cuantificados)*
+7. Contraprestaciones para VOIT *(el resto del paquete: uniformes, eventos, denominación)*
+8. **Punto de Venta Autorizado** *(nueva)*
+9. Afinidad de Marca AFAC × VOIT *(por qué VOIT y no otra)*
+10. Aportación solicitada en especie *(la petición, ya justificada)*
+11. Vigencia y Condiciones *(incluye precio preferencial y compra directa)*
+12. **Siguiente paso y contacto** *(nueva)*
 
 Sigue siendo una presentación corta y ahora sí cierra la venta.
 
@@ -301,6 +332,7 @@ Las láminas actuales son listas de viñetas de peso visual uniforme. En cada l�
 - Alcance → **12,000** personas/mes
 - Inventario → **76.74 m²** de superficie · **38.9%** del inventario lateral
 - Exclusividad → **+210** equipos
+- Contenido → **`[90]` piezas** en la vigencia
 - Permanencia → **+90** minutos
 - Operación → **desde agosto de 2026**
 
@@ -312,7 +344,7 @@ El PDF pesa **23.9 MB**, casi todo en imágenes. Muchos servidores de correo cor
 
 El anexo tiene mejores argumentos que la presentación pero está en texto corrido sin diseño. Dos opciones:
 
-- **Recomendada:** sube sus mejores datos a la presentación (ver 3.9) y reduce el anexo a un respaldo metodológico de 1-2 páginas para quien pida el detalle.
+- **Recomendada:** sube sus mejores datos a la presentación (ver 3.10) y reduce el anexo a un respaldo metodológico de 1-2 páginas para quien pida el detalle.
 - Alternativa: diseña el anexo con la misma identidad visual de la presentación y preséntalo como "Estudio de Alcance y Exposición".
 
 En cualquier caso hay que actualizarlo: todo el anexo está redactado como **proyección** ("flujo proyectado", "resultado estimado", "impactos proyectados") cuando ya tienes operación real.
@@ -327,7 +359,7 @@ Además, contiene dos cosas a corregir si lo envías tal cual:
 El argumento central que hoy no está dicho de forma explícita en ninguna parte:
 
 > VOIT aporta **producto a costo de fabricación**.
-> La Academia entrega **76.74 m² de superficie publicitaria (38.9% de su inventario lateral), exclusividad de categoría en Academia y Liga, branding en uniformes, contenido dedicado, un canal de venta física y un cliente recurrente.**
+> La Academia entrega **76.74 m² de superficie publicitaria (38.9% de su inventario lateral), exclusividad de categoría en Academia y Liga, branding en uniformes, `[90]` piezas de contenido con el balón, un canal de venta física y un cliente recurrente.**
 
 Dicho así, en una sola lámina, es el mejor cierre posible: no necesita cifras monetarias para que la asimetría sea evidente.
 
@@ -337,7 +369,7 @@ Dicho así, en una sola lámina, es el mejor cierre posible: no necesita cifras 
 
 **Reescribir en presente:** la Academia y la Liga operan desde agosto de 2026. Cambiar proyecciones por cifras reales y quitar todo lenguaje de "próxima apertura". Es el cambio de mayor impacto.
 
-**Agregar (3 láminas nuevas):** Inventario Publicitario con los planos de Cancha 1 y Cancha 3, los 76.74 m² y el 38.9% · Punto de Venta Autorizado en consignación · Siguiente paso y contacto.
+**Agregar (4 láminas nuevas):** Inventario Publicitario con los planos de Cancha 1 y Cancha 3, los 76.74 m² y el 38.9% · Contenido con el Balón VOIT con entregables cuantificados · Punto de Venta Autorizado en consignación · Siguiente paso y contacto.
 
 **Potenciar:** exclusividad de balones con los +210 equipos de la Liga · el argumento de +90 min vs. publicidad de impacto breve · compra directa como cliente recurrente.
 
