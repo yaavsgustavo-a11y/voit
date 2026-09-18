@@ -15,22 +15,40 @@ Análisis del archivo `presentacion voit (1).pdf` (8 láminas) y del anexo `Fluj
 | 5 | Aportación del Patrocinador en especie | 75 balones #5, 50 casacas, 20 pares de guantes | Pide antes de demostrar valor |
 | 6 | Alcance y Audiencia | 12,000 personas/mes, +90 min, NSE C a A, 4 segmentos | Sólida, mejorable |
 | 7 | Contraprestaciones para Voit | 4 bloques: posicionamiento, uso real, visibilidad física, visibilidad digital | **Incompleta: falta lo más valioso** |
-| 8 | Vigencia y Valoración | 6 meses desde inauguración, revisable | **Habla de valoración pero no valoriza nada** |
+| 8 | Vigencia y Valoración | 6 meses desde inauguración, revisable | **Desactualizada: habla de un futuro que ya ocurrió** |
 
 ---
 
-## 2. El problema principal
+## 2. Los dos problemas principales
 
-La presentación **no menciona en ninguna lámina las tres lonas publicitarias**, que son el activo más tangible, medible y monetizable de toda la propuesta:
+### 2.1 No se menciona la publicidad perimetral
 
-- **28.70 metros lineales** de publicidad estática
-- **`[5]` espacios publicitarios** de tu inventario
-- Presencia en el **100% de las canchas** del Complejo
-- Un espacio de doble tamaño asignado por prioridad de marca
+La presentación **no menciona en ninguna lámina las tres vallas publicitarias**, que son el activo más tangible y medible de toda la propuesta:
 
-Hoy la lámina de contraprestaciones solo dice, dentro de "Visibilidad Física", que habrá "presencia de marca" en eventos y uniformes. Eso hace que un patrocinador lea la propuesta como *goodwill deportivo* en lugar de *inventario publicitario con valor de mercado*. Es la diferencia entre pedir un favor y presentar un intercambio comercial.
+- **28.70 metros lineales** de publicidad perimetral
+- **7 de 18 espacios publicitarios** entre las dos canchas: **38.9% del inventario**
+- **55.6% del inventario de la Cancha 3** (5 de 9 espacios)
+- **1 de solo 2 posiciones de gran formato** que existen en el Complejo
 
-Lo mismo aplica, en menor grado, al **punto de venta autorizado** y al **precio preferencial**: ninguno aparece en la presentación.
+Hoy la lámina de contraprestaciones solo dice, dentro de "Visibilidad Física", que habrá "presencia de marca" en eventos y uniformes. Eso hace que un patrocinador lea la propuesta como *goodwill deportivo* en lugar de *inventario publicitario asignado*. Es la diferencia entre pedir un favor y presentar un intercambio comercial.
+
+Lo mismo aplica al **punto de venta autorizado** y al **precio preferencial**: ninguno aparece en la presentación.
+
+### 2.2 Toda la presentación está en futuro, y ya es presente
+
+La presentación está fechada en enero de 2026 y habla de una inauguración "contemplada entre febrero y marzo". **La Academia y la Liga iniciaron actividades oficiales en agosto de 2026.** Esto no es solo una errata de fecha: cambia el argumento central de la propuesta.
+
+Hay que reescribir el documento **en presente**:
+
+| Antes (proyección) | Ahora (operación real) |
+|---|---|
+| "La alianza tendrá vigencia desde la inauguración oficial" | "La Academia y la Liga operan desde agosto de 2026" |
+| "Flujo proyectado semanal" | "Flujo registrado desde el inicio de operaciones" |
+| "Impactos proyectados" | "Impactos medidos" |
+| "136 alumnos activos (fase inicial)" | Matrícula real a la fecha |
+| "+210 equipos registrados" | Equipos activos jugando jornadas |
+
+**Este es tu mejor argumento y no lo estás usando.** Un patrocinador evalúa de forma completamente distinta una propuesta sobre un proyecto por abrir y una sobre una operación con meses de historial. Además, las vallas ya están instaladas: VOIT lleva meses recibiendo exposición sin haber firmado nada. Dilo, con fotos fechadas.
 
 ---
 
@@ -40,45 +58,47 @@ Lo mismo aplica, en menor grado, al **punto de venta autorizado** y al **precio 
 
 Colócala **inmediatamente antes** de la lámina de contraprestaciones, o convierte "Visibilidad Física" en esta lámina.
 
-Contenido:
+> **PUBLICIDAD PERIMETRAL ASIGNADA**
+> **3 vallas instaladas · 28.70 metros lineales · 38.9% del inventario del Complejo**
 
-> **PRESENCIA FÍSICA PERMANENTE**
-> **3 lonas instaladas · 28.70 metros lineales · Cobertura del 100% de las canchas**
+| Cancha | Medida | Formato | Espacios ocupados |
+|---|---|---|---|
+| Cancha 1 | 11.60 m | Doble | 2 de 9 |
+| Cancha 3 | 5.80 m | Individual | 1 de 9 |
+| Cancha 3 | 11.30 m | **Gran formato** | 4 de 9 |
+| **Total** | **28.70 m** | | **7 de 18 espacios** |
 
-| Ubicación | Medida | Espacios ocupados |
-|---|---|---|
-| Cancha 1 | 11.60 m | 2 espacios (prioridad de marca) |
-| Cancha 2 | 5.80 m | 1 espacio |
-| Cancha 3 | 11.30 m | `[2]` espacios |
-| **Total** | **28.70 m** | **`[5]` espacios** |
+> **VOIT ocupa el 55.6% del inventario publicitario de la Cancha 3 y una de las únicas 2 posiciones de gran formato que existen en el Complejo.**
 
-> *Ningún asistente puede transitar por el complejo sin exposición a la marca.*
+**Incluye fotografías reales de las tres vallas ya instaladas.** Es tu argumento más fuerte: no propones algo a futuro, ya está operando desde agosto. Una foto de la valla de 11.30 m en cancha vale más que tres viñetas de texto.
 
-**Incluye fotografías reales de las tres lonas ya instaladas.** Es tu argumento más fuerte: no estás proponiendo algo a futuro, ya está operando. Una foto de la lona de 11.6 m en cancha vale más que tres viñetas de texto.
+Agrega también, si lo tienes: un **plano del Complejo** marcando la ubicación de cada valla y el flujo de circulación de personas.
 
-Agrega también, si lo tienes: un **plano del complejo** marcando la ubicación de cada lona y el flujo de circulación de personas.
+### 3.2 El dato de share of voice, explícito
 
-### 3.2 Share of voice
+Este es el número que un área de marketing entiende de inmediato:
 
-Si tu inventario total es, por ejemplo, 12 espacios y VOIT ocupa 5, dilo explícitamente: **"VOIT concentra el 42% del inventario publicitario del complejo"**. Es la métrica que un área de marketing entiende de inmediato y que justifica la exclusividad.
+> **38.9% del inventario publicitario del Complejo**
+> **55.6% de la Cancha 3**
+> **1 de 2 posiciones de gran formato**
 
-### 3.3 Lámina nueva: "Valorización de la Alianza"
+Es lo que justifica la exclusividad de categoría y lo que convierte la conversación en una negociación entre pares.
 
-La lámina 8 se titula "Vigencia y Valoración" pero no contiene ninguna cifra de valor. Necesitas cuantificar lo que entregas frente a lo que pides. Plantilla:
+**Ojo con la aritmética antes de publicarlo.** En la Cancha 3 declaras que 5.80 m equivale a 1 espacio y que 11.30 m equivale a 4 espacios. Si un módulo mide 5.80 m, cuatro módulos serían 23.20 m, no 11.30 m. Necesito la medida del módulo estándar de cada cancha para que la tabla resista una revisión. Si un patrocinador detecta que los números no cierran, va a dudar de todo lo demás. Mientras se resuelve, puedes presentar los metros lineales y el conteo de espacios sin exponer la equivalencia metro-por-módulo.
 
-| Contraprestación | Base de cálculo | Valor comercial (6 meses) |
-|---|---|---|
-| Publicidad estática — 28.70 m / `[5]` espacios | Tarifa de lista por espacio × 6 meses | $ `[__]` |
-| Branding en uniformes — `[__]` alumnos | | $ `[__]` |
-| Contenido digital — `[__]` piezas | | $ `[__]` |
-| Presencia en eventos y activaciones | | $ `[__]` |
-| Exclusividad de categoría (Academia + Liga) | | $ `[__]` |
-| Denominación de Proveedor Oficial | | $ `[__]` |
-| **Valor total entregado** | | **$ `[__]`** |
-| Aportación solicitada en especie (a costo VOIT) | 75 balones + 50 casacas + 20 guantes | $ `[__]` |
-| **Múltiplo de retorno** | | **`[__]`× ** |
+### 3.3 Terminología: no digas "lonas"
 
-Aunque las cifras sean estimadas y las marques como tal, esta lámina cambia por completo la conversación: pasa de "¿nos apoyan con balones?" a "les entregamos X de valor por Y de inversión en producto". **Usa tu tarifa de lista real** de espacios publicitarios, no cifras inventadas.
+Tienes razón en que suena informal. Vocabulario recomendado, del más al menos formal:
+
+| En lugar de | Usa |
+|---|---|
+| "lonas" (como concepto) | **publicidad perimetral** |
+| "las lonas" (como piezas) | **vallas publicitarias** · **paneles publicitarios** |
+| "espacios" | **espacios publicitarios** · **módulos publicitarios** |
+| "la lona grande" | **valla de gran formato** |
+| — | "lona" solo como material: *"impresión en lona sobre estructura perimetral"* |
+
+En el contrato ya quedó redactado así. El término **"valla publicitaria"** es el estándar de la industria del patrocinio deportivo y es el que usa el área comercial de cualquier marca.
 
 ### 3.4 Lámina nueva: "Punto de Venta Autorizado"
 
@@ -87,7 +107,7 @@ Merece lámina propia, no una viñeta. Es el único componente de la propuesta q
 > **DE LA EXPOSICIÓN A LA VENTA**
 > La Academia como punto de contacto y venta física autorizado de productos VOIT.
 >
-> - 12,000 personas/mes con intención deportiva activa
+> - 12,000 personas al mes con intención deportiva activa
 > - Consumidores con alta frecuencia de recompra de equipamiento
 > - Padres de familia como tomadores de decisión, ya presentes en el sitio
 > - El producto se prueba en cancha y se compra en el mismo lugar
@@ -97,19 +117,22 @@ Merece lámina propia, no una viñeta. Es el único componente de la propuesta q
 
 El dato del reporte de ventas por SKU es un beneficio que probablemente no habías considerado y que a un fabricante le interesa mucho: es research de mercado gratuito en un canal que normalmente no puede medir.
 
-### 3.5 Reforzar la exclusividad como beneficio, no como dato
+### 3.5 Reforzar la exclusividad como beneficio
 
 Hoy aparece como una viñeta ("Uso exclusivo de balones Voit"). Conviértela en un bloque destacado y **súmale la Liga**, que es donde está el volumen:
 
-> **EXCLUSIVIDAD TOTAL DE CATEGORÍA**
-> VOIT será la única marca de balones y material de entrenamiento en todo el complejo.
-> - **Academia:** `[136]` alumnos, entrenamientos, partidos, visorías y eventos
+> **EXCLUSIVIDAD DE CATEGORÍA — BALONES**
+> VOIT será la única marca de balones en todo el Complejo.
+> - **Academia:** `[136]` alumnos · entrenamientos, partidos, visorías y eventos
 > - **Liga:** **+210 equipos** registrados — balón oficial de juego en todas las jornadas
-> - Ninguna marca competidora podrá usarse, exhibirse ni promoverse en las instalaciones
+> - Ninguna marca de balones competidora podrá usarse, exhibirse ni promoverse en las instalaciones
 >
 > *No es presencia compartida: es categoría cerrada.*
 
-El dato de **+210 equipos** está en tu anexo de flujo pero **no aparece en la presentación principal**. Es una de tus cifras más potentes y la estás desperdiciando.
+Dos precisiones importantes:
+
+- **Delimita a balones.** Como la exclusividad es solo de balones, dilo así en la lámina. Si dices "material deportivo" sin delimitar, VOIT puede asumir que abarca indumentaria, calzado y accesorios, y después la negociación se complica o te bloqueas a ti mismo para otros patrocinios.
+- **Los +210 equipos no aparecen en la presentación.** Ese dato está en tu anexo de flujo y es una de tus cifras más potentes. Súbelo.
 
 ### 3.6 Lámina de compra directa / precio preferencial
 
@@ -130,7 +153,6 @@ La presentación termina en "Vigencia y Valoración", que es una lámina adminis
 > **SIGUIENTE PASO**
 > - Firma de convenio: `[fecha]`
 > - Entrega de equipamiento: `[fecha]`
-> - Inauguración oficial con presencia de marca: `[fecha]`
 > - Primer reporte de cumplimiento: `[fecha]`
 >
 > Contacto: `[nombre, cargo, teléfono, correo]`
@@ -139,7 +161,7 @@ La presentación termina en "Vigencia y Valoración", que es una lámina adminis
 
 ### 3.8 Integrar las cifras del anexo de flujo
 
-El documento `Flujo de personas Chitiva` es más rico y más argumentado que la lámina de "Alcance y Audiencia", pero es un anexo de texto plano que probablemente nadie lea completo. Sube a la presentación principal:
+El documento `Flujo de personas Chitiva` es más rico y mejor argumentado que la lámina de "Alcance y Audiencia", pero es un anexo de texto plano que probablemente nadie lea completo. Sube a la presentación principal:
 
 - **+210 equipos** de liga registrados
 - Desglose semanal: ~400-500 personas (academia) + ~2,500 (ligas)
@@ -155,7 +177,7 @@ Ese último punto está muy bien redactado en el anexo y no está en la presenta
 
 ### 4.1 "Referencia ilustrativa y conceptual"
 
-Aparece al menos dos veces. Si vas a mostrar imágenes de referencia genéricas, sustitúyelas por **fotos reales**: las lonas instaladas, las canchas, los alumnos, el complejo. Ya tienes las instalaciones operando; usar mockups conceptuales cuando existe la realidad resta credibilidad. Si alguna imagen debe ser conceptual (por ejemplo, el diseño del uniforme aún no producido), déjala con la nota, pero reduce el resto.
+Aparece al menos dos veces. Si vas a mostrar imágenes de referencia genéricas, sustitúyelas por **fotos reales**: las vallas instaladas, las canchas, los alumnos entrenando, el Complejo en operación. Llevas desde agosto operando; usar mockups conceptuales cuando existe la realidad resta credibilidad y refuerza la impresión equivocada de que el proyecto aún no arranca.
 
 ### 4.2 La frase que desarma la propuesta
 
@@ -173,6 +195,10 @@ La lámina 4 ("La alianza busca: integrar a Voit en la experiencia diaria, gener
 
 Es una viñeta vaga dentro de "Posicionamiento de Marca". Elimínala de ahí: queda mucho mejor desarrollada en la lámina nueva de punto de venta.
 
+### 4.5 La palabra "Valoración" del título de la lámina 8
+
+La lámina se titula "Vigencia y Valoración" pero no contiene ninguna valoración, y como no cuentan con tarifa de lista de espacios publicitarios, no conviene improvisar cifras: un número inventado que el patrocinador pueda cuestionar hace más daño que no poner ninguno. **Renombra la lámina a "Vigencia y Condiciones"** y deja que el argumento de magnitud lo cargue el inventario (38.9% del Complejo, 1 de 2 posiciones de gran formato), que es verificable sin necesidad de asignarle precio.
+
 ---
 
 ## 5. CORREGIR (errores concretos detectados)
@@ -182,12 +208,13 @@ Es una viñeta vaga dentro de "Posicionamiento de Marca". Elimínala de ahí: qu
 | Lámina 5 (título) | "PATROCIONADOR" | **PATROCINADOR** |
 | Lámina 8 | "contemblada" | **contemplada** |
 | Láminas 5 y 7 | "visorias" | **visorías** |
-| Lámina 2 | "proxima apertura" | **próxima apertura** |
+| Lámina 2 | "proxima apertura" | **próxima apertura** → ya no aplica: **en operación desde agosto de 2026** |
 | Lámina 6 | "Jugadores jóvenes y adultos (645 años)" | **(6 a 45 años)** — revisar que el guion no se pierda al exportar |
 | Lámina 6 | "Padres y madres de familia (3050 años)" | **(30 a 50 años)** |
 | Lámina 6 | "Flujo mensual estimado en l complejo" | **en el complejo** |
 | Lámina 2 | Frase cortada: "Metodología respaldada y liderada por Andrés Chitiva" | Revisar redacción; parece faltar texto |
-| Portada | "Enero 2026" e inauguración "entre Febrero y Marzo" | Actualizar: hoy es **septiembre de 2026** |
+| Portada | "Enero 2026" | Actualizar al mes de presentación |
+| Lámina 8 | Vigencia "desde la inauguración oficial contemplada entre febrero y marzo" | **Vigencia desde la firma / entrega del equipamiento**; la operación ya inició en agosto |
 
 ### 5.1 Inconsistencia de cifras (importante)
 
@@ -200,7 +227,9 @@ Hay un conflicto entre documentos y dentro del propio anexo de flujo:
 | Anexo, tabla de impactos | Alcance semanal **3,000** |
 | Presentación, lámina 6 | Flujo mensual **12,000** |
 
-Si el total semanal es 2,500 → el mensual es ~10,750, no 12,000. Si es 3,000 → el mensual es ~12,900. **Elige una cifra semanal, propágala a todos los cálculos y usa el mismo número en los dos documentos.** Un patrocinador que detecte esta inconsistencia va a poner en duda todas tus demás cifras, incluida la valorización. Sugerencia: usa **3,000/semana → 12,000/mes** (con factor de 4 semanas, conservador y fácil de auditar) y corrige la tabla combinada a Academia 450 + Ligas 2,550.
+Si el total semanal es 2,500 → el mensual es ~10,750, no 12,000. Si es 3,000 → el mensual es ~12,900. **Elige una cifra semanal, propágala a todos los cálculos y usa el mismo número en los dos documentos.**
+
+Ventaja de tu situación actual: como ya operan desde agosto, **puedes sustituir las estimaciones por conteos reales**. Un dato medido de agosto a la fecha vale más que cualquier proyección, y elimina el riesgo de que te cuestionen la metodología. Sugerencia: reporta el promedio semanal real de los meses transcurridos y deriva el mensual de ahí.
 
 ---
 
@@ -210,32 +239,31 @@ Si el total semanal es 2,500 → el mensual es ~10,750, no 12,000. Si es 3,000 �
 
 El orden actual pide (lámina 5) antes de demostrar valor (láminas 6-7). Invierte:
 
-**Orden recomendado:**
+**Orden recomendado (11 láminas):**
 
 1. Portada
-2. La Academia *(quién somos)*
-3. Alcance y Audiencia *(a quién llegamos — con las cifras del anexo integradas)*
-4. **Inventario Publicitario — las 3 lonas** *(nueva, con fotos)*
-5. **Exclusividad de Categoría — Academia + Liga** *(potenciada)*
+2. La Academia *(quién somos · en operación desde agosto de 2026)*
+3. Alcance y Audiencia *(a quién llegamos — con cifras reales y los datos del anexo integrados)*
+4. **Inventario Publicitario — publicidad perimetral** *(nueva, con fotos y el 38.9%)*
+5. **Exclusividad de Categoría — balones · Academia + Liga** *(potenciada)*
 6. Contraprestaciones para VOIT *(el resto del paquete: uniformes, digital, eventos, denominación)*
 7. **Punto de Venta Autorizado** *(nueva)*
 8. Afinidad de Marca AFAC × VOIT *(por qué VOIT y no otra)*
-9. **Valorización de la Alianza** *(nueva — el múltiplo de retorno)*
-10. Aportación solicitada en especie *(la petición, ya justificada)*
-11. Vigencia y condiciones *(incluye el precio preferencial y la compra directa)*
-12. **Siguiente paso y contacto** *(nueva)*
+9. Aportación solicitada en especie *(la petición, ya justificada)*
+10. Vigencia y Condiciones *(incluye precio preferencial y compra directa)*
+11. **Siguiente paso y contacto** *(nueva)*
 
-Son 12 láminas: sigue siendo una presentación corta y ahora sí cierra la venta.
+Sigue siendo una presentación corta y ahora sí cierra la venta.
 
 ### 6.2 Jerarquía de datos
 
 Las láminas actuales son listas de viñetas de peso visual uniforme. En cada lámina, **elige un número protagonista** y hazlo grande:
 
 - Alcance → **12,000** personas/mes
-- Inventario → **28.70 m** de publicidad
+- Inventario → **38.9%** del inventario publicitario · **28.70 m**
 - Exclusividad → **+210** equipos
 - Permanencia → **+90** minutos
-- Valorización → el **múltiplo de retorno**
+- Operación → **desde agosto de 2026**
 
 ### 6.3 Peso del archivo
 
@@ -248,25 +276,34 @@ El anexo tiene mejores argumentos que la presentación pero está en texto corri
 - **Recomendada:** sube sus mejores datos a la presentación (ver 3.8) y reduce el anexo a un respaldo metodológico de 1-2 páginas para quien pida el detalle.
 - Alternativa: diseña el anexo con la misma identidad visual de la presentación y preséntalo como "Estudio de Alcance y Exposición".
 
-Además, el anexo contiene una frase que **debes eliminar** si lo envías tal cual: en el Perfil 2 de público aparece *"Gusto por productos calóricos después de entrenar"*. Es un insight redactado para un patrocinador de alimentos o bebidas, no para una marca de equipamiento deportivo. Delata que el documento es una plantilla reutilizada y no un análisis hecho para VOIT.
+En cualquier caso hay que actualizarlo: todo el anexo está redactado como **proyección** ("flujo proyectado", "resultado estimado", "impactos proyectados") cuando ya tienes operación real.
+
+Además, contiene dos cosas a corregir si lo envías tal cual:
+
+- En el Perfil 2 de público aparece *"Gusto por productos calóricos después de entrenar"*. Es un insight redactado para un patrocinador de alimentos o bebidas, no para una marca de equipamiento deportivo. Delata que el documento es una plantilla reutilizada y no un análisis hecho para VOIT.
+- La sección 5 menciona branding "en muros, accesos y áreas comunes" y "zonas estratégicas dentro del complejo". Si eso no forma parte de lo que le estás otorgando a VOIT, quítalo o precísalo: prometer inventario que no vas a entregar genera un problema al momento de firmar el convenio.
 
 ### 6.5 Cerrar con la asimetría a tu favor
 
 El argumento central que hoy no está dicho de forma explícita en ninguna parte:
 
 > VOIT aporta **producto a costo de fabricación**.
-> La Academia entrega **inventario publicitario a valor comercial, exclusividad de categoría, branding en uniformes, contenido, un canal de venta y un cliente recurrente**.
+> La Academia entrega **38.9% de su inventario publicitario, exclusividad de categoría en Academia y Liga, branding en uniformes, contenido dedicado, un canal de venta física y un cliente recurrente.**
 
-Dicho así, en una sola lámina, es el mejor cierre posible.
+Dicho así, en una sola lámina, es el mejor cierre posible: no necesita cifras monetarias para que la asimetría sea evidente.
 
 ---
 
 ## 7. Resumen de acciones
 
-**Agregar (4 láminas nuevas):** Inventario Publicitario con fotos reales · Punto de Venta Autorizado · Valorización con múltiplo de retorno · Siguiente paso y contacto.
+**Reescribir en presente:** la Academia y la Liga operan desde agosto de 2026. Cambiar proyecciones por cifras reales y quitar todo lenguaje de "próxima apertura". Es el cambio de mayor impacto.
 
-**Potenciar:** Exclusividad con los +210 equipos de la Liga · el argumento de +90 min vs. publicidad de impacto breve · compra directa como cliente recurrente.
+**Agregar (3 láminas nuevas):** Inventario Publicitario con fotos reales y el 38.9% · Punto de Venta Autorizado · Siguiente paso y contacto.
 
-**Quitar:** imágenes "ilustrativas y conceptuales" · el disclaimer del cierre (moverlo a pie de página) · la redundancia de la lámina 4 · la viñeta "exposición directa a compradores" · el insight de "productos calóricos" del anexo.
+**Potenciar:** exclusividad de balones con los +210 equipos de la Liga · el argumento de +90 min vs. publicidad de impacto breve · compra directa como cliente recurrente.
 
-**Corregir:** 9 erratas de texto · fechas desactualizadas · la inconsistencia de cifras 2,500 / 2,100 / 3,000 / 12,000 · el peso del archivo.
+**Cambiar terminología:** "lonas" → **vallas publicitarias** / **publicidad perimetral**.
+
+**Quitar:** imágenes "ilustrativas y conceptuales" · el disclaimer del cierre (moverlo a pie de página) · la redundancia de la lámina 4 · la viñeta "exposición directa a compradores" · la palabra "Valoración" del título de la lámina 8 · el insight de "productos calóricos" y el branding en muros del anexo.
+
+**Corregir:** 10 erratas de texto y fechas · la inconsistencia de cifras 2,500 / 2,100 / 3,000 / 12,000 · la equivalencia metros-por-módulo de la Cancha 3 · el peso del archivo.
